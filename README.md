@@ -3,11 +3,11 @@
 <p>I'm a beginner software engineer, learning <strong>Python</strong>, <strong>JavaScript</strong>, and exploring <strong>AI</strong> & <strong>Web Development</strong>. 🚀</p>
 
 <p>
-<img src="https://img.shields.io/badge/Python-beginner-blue" alt="Python Badge" />
-<img src="https://img.shields.io/badge/JavaScript-beginner-yellow" alt="JavaScript Badge" />
-<img src="https://img.shields.io/badge/Git-learning-orange" alt="Git Badge" />
-<img src="https://img.shields.io/badge/HTML-learning-red" alt="HTML Badge" />
-<img src="https://img.shields.io/badge/CSS-learning-purple" alt="CSS Badge" />
+<img src="https://img.shields.io/badge/Python-beginner-blue?style=flat-square" alt="Python Badge" />
+<img src="https://img.shields.io/badge/JavaScript-beginner-yellow?style=flat-square" alt="JavaScript Badge" />
+<img src="https://img.shields.io/badge/Git-learning-orange?style=flat-square" alt="Git Badge" />
+<img src="https://img.shields.io/badge/HTML-learning-red?style=flat-square" alt="HTML Badge" />
+<img src="https://img.shields.io/badge/CSS-learning-purple?style=flat-square" alt="CSS Badge" />
 </p>
 
 <img align="right" src="https://media.giphy.com/media/3o7aD4f0GZsV9f2WJi/giphy.gif" width="200" />
@@ -16,7 +16,7 @@
 <ul>
 <li>🔭 Currently learning and practicing coding fundamentals.</li>
 <li>🧐 Exploring <strong>AI, Web Development, and Cloud Computing</strong>.</li>
-<li>💬 Always open to tips, guidance, and collaboration.</li>
+<li>💬 Open to tips, guidance, and small collaborations.</li>
 <li>🎉 Fun Fact: I love experimenting with new tech and learning step by step!</li>
 </ul>
 
