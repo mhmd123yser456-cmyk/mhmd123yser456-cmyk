@@ -1,52 +1,39 @@
-<h2>Hey 👋, I'm <a href="https://github.com/mohamedyasser">Mohamed Yasser</a></h2>
-<p>I'm a passionate <strong>Software Engineer</strong> focused on <strong>AI, Web Development, Cloud Computing</strong>, and exploring new technologies. 🚀</p>
+<h2>Hey 👋, I'm Mohamed Yasser</h2>
+
+<p>I'm a beginner software engineer, learning <strong>Python</strong>, <strong>JavaScript</strong>, and exploring <strong>AI</strong> & <strong>Web Development</strong>. 🚀</p>
 
 <p>
-<a href="https://github.com/mohamedyasser"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/mohamedyasser" alt="GitHub Badge"></a>
-<a href="https://www.linkedin.com/in/mohamedyasser/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&link=https://www.linkedin.com/in/mohamedyasser/" alt="LinkedIn Badge"></a>
-<a href="https://mohamedyasser.dev"><img src="https://img.shields.io/badge/-Portfolio-4E69C8?style=flat-square&logo=Firefox&link=https://mohamedyasser.dev" alt="Portfolio Badge"></a>
-<a href="https://twitter.com/mohamedyasser"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&link=https://twitter.com/mohamedyasser" alt="Twitter Badge"></a>
+<img src="https://img.shields.io/badge/Python-beginner-blue" alt="Python Badge" />
+<img src="https://img.shields.io/badge/JavaScript-beginner-yellow" alt="JavaScript Badge" />
+<img src="https://img.shields.io/badge/Git-learning-orange" alt="Git Badge" />
+<img src="https://img.shields.io/badge/HTML-learning-red" alt="HTML Badge" />
+<img src="https://img.shields.io/badge/CSS-learning-purple" alt="CSS Badge" />
 </p>
 
 <img align="right" src="https://media.giphy.com/media/3o7aD4f0GZsV9f2WJi/giphy.gif" width="200" />
 
 <h2>⚡️ About Me</h2>
 <ul>
-<li>🔭 Currently building projects in <strong>AI, ML, and Cloud solutions</strong>.</li>
-<li>🧐 Learning <strong>DevOps, Kubernetes, Docker</strong>, and <strong>distributed systems</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/mohamedyasser">GitHub</a>.</li>
-<li>📝 Writing tutorials and insights on my <a href="https://mohamedyasser.dev/blog">blog</a>.</li>
-<li>💬 Ping me about <strong>Python, JavaScript, AI, Security, and Cloud architecture</strong>.</li>
-<li>📙 Check out my <a href="https://mohamedyasser.dev/resume.pdf">resume</a>.</li>
-<li>🎉 Fun Fact: I love experimenting with new tech stacks and contributing to open-source.</li>
+<li>🔭 Currently learning and practicing coding fundamentals.</li>
+<li>🧐 Exploring <strong>AI, Web Development, and Cloud Computing</strong>.</li>
+<li>💬 Always open to tips, guidance, and collaboration.</li>
+<li>🎉 Fun Fact: I love experimenting with new tech and learning step by step!</li>
 </ul>
 
-<h2>🚀 Featured Projects</h2>
-<details>
-    <summary>Click to Explore</summary>
-    <ul>
-        <li><a href="https://github.com/mohamedyasser/AI-Chatbot">AI Chatbot 🤖</a> — Conversational AI project built with Python & NLP.</li>
-        <li><a href="https://github.com/mohamedyasser/Weather-App">Weather App ☀️</a> — Real-time weather updates using React & OpenWeather API.</li>
-        <li><a href="https://github.com/mohamedyasser/Cybersecurity-Framework">Cybersecurity Framework 🔒</a> — Network intrusion detection system using AI techniques.</li>
-        <li><a href="https://github.com/mohamedyasser/Portfolio-Website">Portfolio Website 💼</a> — My personal developer portfolio built with HTML, CSS, and JS.</li>
-    </ul>
-</details>
+<h2>🚀 My Projects</h2>
+<p>I'm currently learning and experimenting with code. Projects will be added here soon! 💻</p>
 
-<h2>🛠️ Tools & Technologies</h2>
+<h2>🛠️ Tools & Technologies I'm Learning</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="25" height="25" />
 </p>
 
-<h2>📊 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedyasser&show_icons=true&count_private=true&hide=stars,prs" alt="Mohamed Yasser GitHub Stats" />
+<h2>📈 GitHub Stats</h2>
+<p>Stats will appear here as I add projects and contribute more.</p>
 
 <p><a href="http://hits.dwyl.com/mohamedyasser/mohamedyasser.svg?style=flat-square"><img src="https://hits.dwyl.com/mohamedyasser/mohamedyasser.svg?style=flat-square" alt="HitCount"></a></p>
